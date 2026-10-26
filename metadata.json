@@ -1,0 +1,6 @@
+{
+  "name": "EL TRABAJO — Словарь испанского для работы",
+  "description": "Разговорный испанский словарь и фразочник для работы в Испании (A1–B1): глаголы, фразы, собеседование, безопасность и диалоги с переводом по клику.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
